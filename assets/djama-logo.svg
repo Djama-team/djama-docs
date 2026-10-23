@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 345 340" role="img" aria-label="Djama">
+  <path d="M120 6H190C285 6 341 70 341 160C341 250 285 315 190 315H120Z" fill="#C8553D"/>
+  <polygon points="250,302 304,333 292,280" fill="#C8553D"/>
+  <path d="M149 81H190C235 81 264 115 264 160C264 205 235 240 190 240H149Z" fill="#FAF6EF"/>
+  <rect x="7" y="6" width="181" height="256" rx="42" fill="#1F5F4A"/>
+  <polygon points="74,262 74,315 120,262" fill="#1F5F4A"/>
+  <rect x="149" y="81" width="39" height="159" fill="#E3A72F"/>
+</svg>
